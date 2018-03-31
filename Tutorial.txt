@@ -1,0 +1,33 @@
+O objetivo do jogo é simples, evitar que os inimigos e aproximem da margem esquerda da tela, caso isso aconteça você
+perderá uma certa quantia de vida dependendo do tipo do inimigo.
+
+Caso sua vida chegue a 0 você perde.
+
+Você pode destruir os inimigos de 2 formas, atirando neles ou encostando neles com o seu bloco.
+
+Caso você destrua o inimigo colidindo nele você não receberá pontos, só receberá pontos se destrui-los usando seus tiros.
+
+Você só receberá a cura do bloco VERMELHO caso você destrua ele usando seus tiros.
+
+O número em branco em alguns inimigos representa a vida deles, cada tiro acertado diminuirá em 1, inimigos sem número
+possuem apenas 1 de vida, ou seja, você pode mata-los com 1 tiro.
+
+Tipos de inimigos:
+
+Azul: são os mais fracos, são lentos e possuem apenas 1 de vida. Você perderá apenas 1 de vida caso um deles chegue em sua
+margem esquerda.
+
+Amarelo: eles são bem rápidos e causam 3 de dano, porém possuem apenas 1 de vida.
+
+verde: possuem 3 de vida e causam 5 de dano, também são maiores que os outros inimigos.
+
+roxo: possuem 1 de vida e causam 2 de dano, porém são bem chatos, andam em diagonal e caso colidem na margem superior
+irão reaparecer na margem inferior.
+
+roza: são bem lentos e pequenos, você só pode acerta-los com tiros caso eles não estejam encostados na margem inferior,
+se eles alcançarem a margem inferior a única forma de mata-los é colidindo seu bloco neles. Causam 3 de dano e possuem 1
+de vida.
+
+vermelho: não são inimigos, são blocos de cura. São grandes e possuem 5 de vida, eles lhe concedem 1 de cura caso você
+os destrua com TIROS. Eles não causam dano.
+
